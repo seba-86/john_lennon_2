@@ -1,6 +1,6 @@
 $('.carousel').carousel({
   interval: 7000
-})
+});
 
 $(function () {
   $(".nav-link ").click(function (event) {
@@ -19,6 +19,6 @@ $(function () {
         });
     }
   });
-  
+
 });
 

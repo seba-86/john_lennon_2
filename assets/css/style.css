@@ -3,13 +3,19 @@ body *{
 }
 
 .header {
-    background-image: url('../img/Walls_Bridges_1974_Gruen_JohnLennon-home-slider-min.jpg');
+    background-image: url('../img/bg-hero-lennon.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position:center;
     height: 100%;
     
 
+}
+
+.navbar {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
 }
 
 .navbar-brand {
@@ -138,9 +144,6 @@ hr {
 .disc h3 {
     color:cadetblue;
 }
-
-
-
 
 
 .contacto h2 {
