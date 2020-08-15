@@ -1,0 +1,166 @@
+body *{
+ color:#373A3C;
+}
+
+.header {
+    background-image: url('../img/Walls_Bridges_1974_Gruen_JohnLennon-home-slider-min.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    height: 100%;
+    
+
+}
+
+.navbar-brand {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+
+.change .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(95,158,160)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+    
+}
+.change.navbar-toggler {
+    border-color: cadetblue /*rgb(95.158,160*/
+}
+
+
+.size h1 {
+    padding-top: 550px;
+    font-size: 72px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    color: white;
+    
+}
+
+.size h2 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    color: cadetblue;
+    font-size: 72px;
+}
+
+
+hr {
+    border: solid 1px white;
+    width: 40%;
+}
+
+
+@media (min-width: 250px) and (max-width: 500px) { 
+    .header h1, .header h2{
+        font-size: 40px;
+        padding-bottom: 10px ;
+    }
+}
+
+
+.feature h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    text-align: center;
+    line-height: 50px;
+}
+
+.feature hr, .linea {
+    border: solid 1px black;
+    width: 30%;
+}
+
+.content p {
+    line-height: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
+
+.experiencia, .disc h3{
+    font-size: 52px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    color:cadetblue;
+    
+}
+
+.photos h2 {
+    font-size: 25px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+    
+}
+
+
+.photos img{
+    height: 250px;
+    width: 250px;
+}
+
+
+
+.light {
+    font-size: 25px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    font-style: italic;
+    
+    
+}
+.linea-white {
+    border: solid 1px white;
+    width: 30%;
+}
+
+
+.disc{
+    background-color:lightgrey;
+    
+}
+
+.disc h5 {
+    font-size: 23px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+}
+
+.disc p {
+    
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+}
+.disc h3 {
+    color:cadetblue;
+}
+
+
+
+
+
+.contacto h2 {
+    font-size: 52px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    color: cadetblue;
+}
+
+
+
+footer h2, footer i{
+    color: white;
+}
+
+.final h2 {
+    font-size: 40px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+}
+
+
+
